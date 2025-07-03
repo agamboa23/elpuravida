@@ -1,3 +1,4 @@
 baseURL = 'https://agamboa23.github.io/elpuravida/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "PaperMod"
