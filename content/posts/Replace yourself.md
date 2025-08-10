@@ -1,5 +1,5 @@
 +++
-date = '2025-10-11T22:57:19+02:00'
+date = '2025-08-10T22:57:19+02:00'
 draft = false
 title = 'Replace yourself'
 +++
@@ -25,10 +25,8 @@ My next publications will include automation guides, benchmarks and experiments 
 
 I want you to replace yourself so others won't be able to. Take yourself out of all those tasks futile, meaningless or just boring. Place yourself in your own path and around those who value you most. For the birthdays, summer afternoons and magic instants where your participation is indispensable. Use this material at your discretion and let it contribute to the future 15h work week Kaynes envisioned, a future where replacing our work becomes easier but our human experience remains, as always, irreplaceable. 
 
--Replacing is Pura Vida,
-
-Alexis Gamboa
-
+-Replacing is Pura Vida  
+Alexis Gamboa  
 alexis.gamboa@loopid.com
 
 
