@@ -36,7 +36,7 @@ jobs:
 
 
       - name: Build site with correct baseURL
-        run: hugo --minify --baseURL "https://agamboa23.github.io/elpuravida/"
+        run: hugo --minify --baseURL "https://elpuravida.com/"
 
       - name: Upload public folder
         uses: actions/upload-pages-artifact@v3
