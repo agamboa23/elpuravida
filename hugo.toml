@@ -1,6 +1,6 @@
 baseURL = 'https://agamboa23.github.io/elpuravida/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'El Pura Vida - Tech, Philosophy, Humour'
 theme = "PaperMod"
 [params]
   hideFooter = true
