@@ -17,31 +17,15 @@ Why do I care?: I had my fair deal of RPA and job reduction projects. I will alw
 
 ### Beware the sn**ai**ke oil. 
 
-
 I am not selling a course and please shame me if I ever do (N8N automation is starting to become the new get-rich-quick-scheme for fake gurus). My payment is your attention and your feedback - nothing more. In return, I guarantee you handcrafted articles - 100% BIO writing. Not because I can do it better than ChatGPT, but because I respect the time you take reading it. Linked In posts in the other hand ... I might automate some of those. 
 
 My next publications will include automation guides, benchmarks and experiments ranging from practical to utterly useless but cool. Use them for entertainment, inspiration or as a guideline to build your own agents and workflows, free up some time, make a side hustle or make your own whacky AI Agent.
 
-I want you to replace yourself so others won't be able to. Take yourself out of all those tasks futile, meaningless or just boring. Place yourself in your own path and around those who value you most. For the birthdays, summer afternoons and magic instants where your participation is indispensable. Use this material at your discretion and let it contribute to a future where replacing our work becomes easier, but replacing ourselves becomes impossible. 
+I want you to replace yourself so others won't be able to. Take yourself out of all those tasks futile, meaningless or just boring. Place yourself in your own path and around those who value you most. For the birthdays, summer afternoons and magic instants where your participation is indispensable. Use this material at your discretion and let it contribute to the future 15h work week Kaynes envisioned, a future where replacing our work becomes easier but our human experience remains, as always, irreplaceable. 
 
 -Replacing is Pura Vida,
 Alexis Gamboa
 alexis.gamboa@loopid.com
-
-# Research:
-
-
-Year of the AI Agent: https://www.ibm.com/think/insights/ai-agents-2025-expectations-vs-reality 
-
-Tech adoption US: https://www.nber.org/system/files/working_papers/w30659/w30659.pdf
-
-Mentalidad de tiburon: https://www.youtube.com/watch?v=BRP3SPi78Yw
-
-Yes, a reddit link, get used to it: https://www.reddit.com/r/UiPath/comments/sqt5l5/how_do_you_assess_processes_that_are_viable_for/
-
-replacing you: https://www.artisan.co/blog/stop-hiring-humans
-
-shift in the market: https://www.signalfire.com/blog/signalfire-state-of-talent-report-2025
 
 
 
