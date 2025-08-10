@@ -23,7 +23,7 @@ I am not selling a course and please shame me if I ever do (N8N automation is st
 
 My next publications will include automation guides, benchmarks and experiments ranging from practical to utterly useless but cool. Use them for entertainment, inspiration or as a guideline to build your own agents and workflows, free up some time, make a side hustle or make your own whacky AI Agent.
 
-I want you to replace yourself so others won't be able to. Take yourself out of all those tasks futile, meaningless or just boring. Place yourself in your own path and around those who value you most. For the birthdays, summer afternoons and magic instants where your participation is indispensable. Use this material at your discretion and let it contribute to the future 15h work week Kaynes envisioned, a future where replacing our work becomes easier but our human experience remains, as always, irreplaceable. 
+I want you to replace yourself so others won't be able to. Take yourself out of all those tasks futile, meaningless or just boring. Place yourself in your own path and around those who value you most. For the birthdays, summer afternoons and magic instants where your participation is indispensable. Use this material at your discretion and let it contribute to a future where replacing our work becomes easier but our human experience remains, as is always have been; irreplaceable. 
 
 -Replacing is Pura Vida  
 Alexis Gamboa  
