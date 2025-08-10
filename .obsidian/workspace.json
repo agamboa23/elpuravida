@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,8 @@
   },
   "active": "08d8bca0c20d045b",
   "lastOpenFiles": [
-    "content/posts/Untitled.md",
-    "content/posts/Replace yourself.md"
+    "content/posts/Replace yourself draft.md",
+    "content/posts/Replace yourself.md",
+    "content/posts/Myself.md"
   ]
 }
